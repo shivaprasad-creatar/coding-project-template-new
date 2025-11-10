@@ -5,6 +5,8 @@
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 this line is added for task (pull requst).
+
+this is my second for pull requst.
 ```
 Input:
    p, principal amount
